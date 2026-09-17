@@ -12,8 +12,8 @@ I build across the full hardware-software stack — from multi-layer PCB design 
 
 ### Technical Focus
 
-* **Hardware & Firmware:** Schematic capture, multi-layer board layout, motor drivers, ESP32, FreeRTOS, and protocols (UART, SPI, I2C, PWM).
-* **Control & Actuation:** Closed-loop PID control, encoder feedback, stepper motor timing optimization, and driver integration.
+* **Hardware & Firmware:** Schematic capture, multi-layer board layout, motor drivers, ESP32, FreeRTOS, and protocols (UART, SPI, I2C).
+* **Control & Actuation:** Closed-loop PID control, encoder feedback, stepper motors, kinematics and driver integration.
 * **Robotics Stack:** ROS 2 (Nav2, SLAM Toolbox), Gazebo simulation, and multi-MCU serial telemetry pipelines.
 
 ---
